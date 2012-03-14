@@ -2,6 +2,11 @@ package edu.ycp.cs320.ecosim;
 
 import javax.swing.*;
 
+/**
+ * This is the simulator.
+ * 
+ * @author bcorsi
+ */
 public class Simulator {
 	
 	  public static void main(String[] args) {
